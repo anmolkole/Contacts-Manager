@@ -1,0 +1,52 @@
+/* ContactDetails.css */
+
+.contact-details-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact-details-container h2 {
+    margin-bottom: 20px;
+    font-size: 1.8rem;
+    color: #333;
+  }
+  
+  .FaregCircleUser {
+    font-size: 4rem;
+    color: #007bff;
+    margin-bottom: 20px;
+  }
+  
+  .contact-details-container p {
+    margin: 10px 0;
+    font-size: 1.2rem;
+    color: #555;
+  }
+  
+  .contact-details-container strong {
+    color: #333;
+  }
+  
+  .contact-details-container button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .contact-details-container button:hover {
+    background-color: #0056b3;
+  }
+  
+  

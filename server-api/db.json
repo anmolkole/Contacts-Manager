@@ -1,0 +1,64 @@
+{
+  "contacts": [
+    {
+      "id": "f643d88b-10e3-4022-bad0-a02acdedb051",
+      "name": "Jack Ryan",
+      "email": "Jack33@gmail.com"
+    },
+    {
+      "id": "36fbad0a-f476-4b32-a749-265bc6c9032e",
+      "name": "Dipak",
+      "email": "Dipak333@gmail.com"
+    },
+    {
+      "id": "a8c78f59-753b-45ce-8143-2d2b972d7f45",
+      "name": "Jhon Cena",
+      "email": "JhonCena99@gmail.com"
+    },
+    {
+      "id": "43d9c849-fe30-40d2-8274-4539e8c07d05",
+      "name": "Zlatan",
+      "email": "Zlatan45@gmail.com"
+    },
+    {
+      "id": "143a6c43-a10b-413c-9a4e-ae0fdd33b8ce",
+      "name": "Jordan",
+      "email": "Jordan33@gmail.com"
+    },
+    {
+      "id": "5a31d8fc-a08c-4d87-a7f9-262dba986659",
+      "name": "Rohit",
+      "email": "Rohit99@gmail.com"
+    },
+    {
+      "id": "e29e19e7-02a4-4420-8457-419fbbc7505a",
+      "name": "Roman",
+      "email": "Roman24@gmail.com"
+    },
+    {
+      "id": "655a40d2-7fbf-4ece-a464-d6f99053eca0",
+      "name": "Ritchie",
+      "email": "richirich29525@gmail.com"
+    },
+    {
+      "id": "4513143d-3135-489e-b4e0-938f38f3b37b",
+      "name": "Henry Cavil",
+      "email": "Henry33@gmail.com"
+    },
+    {
+      "id": "f84f7c18-b6af-4f1c-bb1b-30a0dbf6a871",
+      "name": "Arya Kadam",
+      "email": "Arya222@gmail.com"
+    },
+    {
+      "id": "1bc518a0-37bb-4019-91aa-2e58c231d26b",
+      "name": "Anuj Kamble",
+      "email": "Anuj66@gmail.com"
+    },
+    {
+      "id": "d7a1567c-5cf7-4685-a456-94ee6d83b84b",
+      "name": "Anmol Kole",
+      "email": "Anmolkole44@gmail.com"
+    }
+  ]
+}
